@@ -1,0 +1,20 @@
+{
+    "name": "yogeshkoli/database-dumper",
+    "description": "Take given database backup and store into the directory",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yogesh",
+            "email": "yogeshkoli@hotmail.com",
+            "homepage": "http://www.yogeshkoli.com",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.0.0",
+        "spatie/db-dumper": "^2.7",
+        "vlucas/phpdotenv": "^2.4"
+    }
+}
