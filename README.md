@@ -10,7 +10,7 @@ $ composer install
 ```
 
 ```sh
-$ mv .env.example .env
+$ cp .env.example .env
 $ nano .env
 ```
 Update .ENV file according to your environment settings and yur good to go.
